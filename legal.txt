@@ -1,0 +1,58 @@
+﻿(Arg) Arma 3 Launcher – Legal / Právní upozornění
+============================================================
+
+ENGLISH
+-------
+
+Notice
+(Arg) Arma 3 Launcher is an unofficial tool made by a community member. It is provided “as is”, without warranty of any kind. The author is not liable for any damage, including loss of data (profiles, presets, settings, game or mod files). Back up anything that matters to you.
+
+Your content
+You are solely responsible for the mods and other content you load, download, share or play with the launcher, and for following the licence of every mod and the Steam Workshop terms.
+
+Terms of use
+Without the author's written consent you may not sell or otherwise commercially exploit the launcher, redistribute it, use it to train AI or machine-learning models, modify or reverse engineer it, remove notices from it, or circumvent its protections. The author may change these terms at any time.
+
+Trademarks
+Arma 3 and the Arma logo are trademarks of Bohemia Interactive a.s. Steam and the Steam logo are trademarks of Valve Corporation. This launcher is not affiliated with, endorsed by or sponsored by Bohemia Interactive or Valve.
+
+Steam Workshop and mods
+Mods and other Workshop items shown in the launcher belong to their authors. The launcher only lists them and asks the Steam client to download them; it does not host or redistribute any mod.
+
+Map Editor
+The (Arg) Map Editor is a separate program with its own legal notice. The launcher only downloads it from the author's GitHub repository when you ask it to.
+
+Third-party software
+Microsoft .NET, WPF and Windows Forms – MIT License.
+CommunityToolkit.Mvvm – MIT License.
+Obfuscar (code protection tool used only when building the launcher) – MIT License.
+Each component is provided under its own licence.
+
+ČESKY
+-----
+
+Upozornění
+(Arg) Arma 3 Launcher je neoficiální nástroj, který vytvořil člen komunity. Je poskytován „tak, jak je“, bez jakékoli záruky. Autor neodpovídá za žádné škody, včetně ztráty dat (profilů, presetů, nastavení, souborů hry nebo modů). Co je pro vás důležité, si zálohujte.
+
+Váš obsah
+Za mody a další obsah, který pomocí launcheru načítáte, stahujete, sdílíte nebo hrajete, odpovídáte výhradně vy, stejně jako za dodržování licence každého modu a podmínek Steam Workshopu.
+
+Podmínky použití
+Bez písemného souhlasu autora nesmíte launcher prodávat ani jinak komerčně využívat, šířit jej dál, používat jej k trénování AI nebo modelů strojového učení, upravovat jej nebo zpětně analyzovat, odstraňovat z něj upozornění ani obcházet jeho ochrany. Autor může tyto podmínky kdykoli změnit.
+
+Ochranné známky
+Arma 3 a logo Arma jsou ochranné známky společnosti Bohemia Interactive a.s. Steam a logo Steam jsou ochranné známky společnosti Valve Corporation. Tento launcher není s Bohemia Interactive ani Valve nijak spojen, není jimi schválen ani sponzorován.
+
+Steam Workshop a mody
+Mody a další položky Workshopu zobrazené v launcheru patří jejich autorům. Launcher je pouze vypisuje a žádá klienta Steam o jejich stažení; žádné mody nehostuje ani nešíří.
+
+Map Editor
+(Arg) Map Editor je samostatný program s vlastním právním upozorněním. Launcher jej stáhne z autorova repozitáře na GitHubu jen na vaši žádost.
+
+Software třetích stran
+Microsoft .NET, WPF a Windows Forms – licence MIT.
+CommunityToolkit.Mvvm – licence MIT.
+Obfuscar (nástroj na ochranu kódu, použitý jen při sestavení launcheru) – licence MIT.
+Každá součást se poskytuje pod vlastní licencí.
+
+© ArganinyCZSK
